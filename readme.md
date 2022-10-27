@@ -1,8 +1,9 @@
 Hello, there here I have created two folder namely backend for api and react_front for front_end.
+
 Requirements for backend
-Python==3.7
-Django==3.2.16
-djangorestframework==3.14.0
+1. Python==3.7
+2. Django==3.2.16
+3. djangorestframework==3.14.0
 
 Requirements for react_front
 "react": "^18.2.0",
