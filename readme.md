@@ -25,8 +25,11 @@ Steps to run react_front
 5. A browser window will open running the app.
 
 Firstly, connect the backend part in order to run the app correctly.
+
 Also, I have only added a few countries in api with the view of extending the range.
-Thankyou.
+
+I have tested it on Chrome browser with CORS extension installed to allow CORS requests.
+For that CORS extension is required to run this on Chrome
 
 Screenshots of the App
 
