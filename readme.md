@@ -1,10 +1,10 @@
 Hello, there here I have created two folder namely backend for api and react_front for front_end.
-Dependencies for backend
-Python == 3.7
-django
-djangorestframework
+Requirements for backend
+Python==3.7
+Django==3.2.16
+djangorestframework==3.14.0
 
-Depdencies for react_front
+Requirements for react_front
 "react": "^18.2.0",
 "react-dom": "^18.2.0",
 "react-scripts": "5.0.1",
