@@ -6,10 +6,11 @@ Requirements for backend
 3. djangorestframework==3.14.0
 
 Requirements for react_front
-"react": "^18.2.0",
-"react-dom": "^18.2.0",
-"react-scripts": "5.0.1",
-"react-select": "^5.5.6",
+
+1. "react": "^18.2.0",
+2. "react-dom": "^18.2.0",
+3. "react-scripts": "5.0.1",
+4. "react-select": "^5.5.6",
 
 Steps to run backend
 1. For the installation of libraries run pip install django djangorestframework
