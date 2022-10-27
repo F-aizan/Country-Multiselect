@@ -11,15 +11,19 @@ Requirements for react_front
 "react-select": "^5.5.6",
 
 Steps to run backend
-1. cd backend 
-2. In terminal run command python manage.py runserver.
+1. For the installation of libraries run pip install django djangorestframework
+2. cd backend
+3. In terminal run command python manage.py runserver.
 
 Steps to run react_front
 1. cd react_front
-2. In terminal run command npm start
-3. Click the link in terminal
-4. A browser window will open running the app.
+2. Run npm install react react-dom react-scripts react-select 
+3. Open at erminal and run command npm start
+4. Click the link in terminal
+5. A browser window will open running the app.
 
-Thankyou
+Firstly, connect the backend part in order to run the app correctly.
+Also, I have only added a few countries in api with the view of extending the range.
+Thankyou.
 
 
