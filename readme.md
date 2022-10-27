@@ -28,4 +28,5 @@ Firstly, connect the backend part in order to run the app correctly.
 Also, I have only added a few countries in api with the view of extending the range.
 Thankyou.
 
+![image](https://user-images.githubusercontent.com/89559647/198254775-f2b252ef-a15a-46a8-ba28-53071b616ebf.png)
 
